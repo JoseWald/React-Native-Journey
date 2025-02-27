@@ -1,3 +1,15 @@
+# Hello , I'm Jose Wald 
+I made this repo for you to help you to develop your mobile app with React Native if you have any 
+difficulty with the documentation or just lazy to spend time on watching long time tutorial.
+
+In this project , each  git commit represent each step.
+
+
+
+
+
+
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
