@@ -1,8 +1,8 @@
 import React from "react";
-import { View, Text, StyleSheet } from 'react-native';
-import Navigation from "../../src/navigation/Navigation";
+
+import UseSate from "../../src/screens/UseState";
 const IndexScreen: React.FC = () => {
-  return <Navigation/>;
+  return <UseSate/>;
 };
 
 export default IndexScreen;
