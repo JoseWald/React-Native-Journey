@@ -1,8 +1,8 @@
 import React from "react";
 
-import Horloge from "../../src/screens/Horloge";
+import PropsApp from "../../src/screens/PropsApp";
 const IndexScreen: React.FC = () => {
-  return <Horloge/>;
+  return <PropsApp/>;
 };
 
 export default IndexScreen;
