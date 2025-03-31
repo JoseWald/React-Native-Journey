@@ -1,9 +1,8 @@
 import React from "react";
 import { View, Text, StyleSheet } from 'react-native';
-import HelloWorldScreen from '../../src/screens/HelloWorldScreen';
-import ClicButton from '../../src/screens/ClicButton';
+import Navigation from "../../src/navigation/Navigation";
 const IndexScreen: React.FC = () => {
-  return <ClicButton/>;
+  return <Navigation/>;
 };
 
 export default IndexScreen;
