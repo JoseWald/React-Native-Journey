@@ -1,8 +1,8 @@
 import React from "react";
 
-import UseSate from "../../src/screens/UseState";
+import Horloge from "../../src/screens/Horloge";
 const IndexScreen: React.FC = () => {
-  return <UseSate/>;
+  return <Horloge/>;
 };
 
 export default IndexScreen;
