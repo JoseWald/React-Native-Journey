@@ -1,8 +1,8 @@
 import * as React from 'react';
 
-import ColorChangerScreen from "../../src/screens/ColorChangerScreen";
+import CardGameScreen from "../../src/screens/CardGameScreen";
 const IndexScreen: React.FC = () => {
-  return <ColorChangerScreen/>;
+  return <CardGameScreen/>;
 };
 
 export default IndexScreen;
