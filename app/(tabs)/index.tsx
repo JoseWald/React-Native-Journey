@@ -1,8 +1,8 @@
-import React from "react";
+import * as React from 'react';
 
-import PropsApp from "../../src/screens/PropsApp";
+import ColorChangerScreen from "../../src/screens/ColorChangerScreen";
 const IndexScreen: React.FC = () => {
-  return <PropsApp/>;
+  return <ColorChangerScreen/>;
 };
 
 export default IndexScreen;
