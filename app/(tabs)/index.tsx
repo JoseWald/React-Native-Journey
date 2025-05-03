@@ -1,8 +1,7 @@
 import * as React from 'react';
-
-import CardGameScreen from "../../src/screens/CardGameScreen";
+import App from '../../src/App';
 const IndexScreen: React.FC = () => {
-  return <CardGameScreen/>;
+  return <App/>;
 };
 
 export default IndexScreen;
